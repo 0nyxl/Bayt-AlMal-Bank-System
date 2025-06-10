@@ -28,38 +28,38 @@ To compile and run this program, you'll need:
 
 ---
 
-⚙️ Compilation & Execution
+🚀 Getting Started
 
-Windows (with g++):
+### Clone the repository
 
+```bash
+git clone https://github.com/0nyxl/BaytAlMalBankSystem.git
+cd BaytAlMalBankSystem
+```
+
+### Compilation & Execution
+
+#### Windows (with g++)
+
+```bash
 g++ BankSystem.cpp -o BankSystem.exe
 .\BankSystem.exe
+```
 
-Linux / macOS:
+#### Linux / macOS
 
+```bash
 g++ BankSystem.cpp -o BankSystem
 ./BankSystem
-
----
-
- How to Contribute
-
-1. Fork this repository
-2. Create a new branch (git checkout -b feature-name)
-3. Make your changes and commit (git commit -m 'Add feature')
-4. Push to your branch (git push origin feature-name)
-5. Open a pull request
-
----
-
+```
 
 👤 Author
 
-- Ahmad Shdeed (Onyxl)
-  - GitHub: github.com/0nyxl
-  - Twitter: x.com/0nyxl
-  - Email: i0nyxl@hotmail.com
-  - Buy Me A Coffee : https://buymeacoffee.com/i0nyxl
+- Ahmad Shdeed (Onyxl)  
+  - GitHub: https://github.com/0nyxl  
+  - Twitter: https://x.com/0nyxl  
+  - Email: i0nyxl@hotmail.com  
+  - Buy Me A Coffee: https://buymeacoffee.com/i0nyxl  
 
 ---
 
