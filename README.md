@@ -28,14 +28,6 @@ To compile and run this program, you'll need:
 
 ---
 
-🧱 File Structure
-
-├── BankSystem.cpp
-├── BankUser.txt
-└── README.txt
-
----
-
 ⚙️ Compilation & Execution
 
 Windows (with g++):
