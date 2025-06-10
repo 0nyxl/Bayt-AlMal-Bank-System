@@ -33,8 +33,8 @@ To compile and run this program, you'll need:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/0nyxl/BaytAlMalBankSystem.git
-cd BaytAlMalBankSystem
+git clone https://github.com/0nyxl/Bayt-AlMal-Bank-System
+cd Bayt-AlMal-Bank-System
 ```
 
 ### Compilation & Execution
@@ -55,7 +55,7 @@ g++ BankSystem.cpp -o BankSystem
 
 👤 Author
 
-- Ahmad Shdeed (Onyxl)  
+- Ahmad Shdeed (Onyxl)
   - GitHub: https://github.com/0nyxl  
   - Twitter: https://x.com/0nyxl  
   - Email: i0nyxl@hotmail.com  
