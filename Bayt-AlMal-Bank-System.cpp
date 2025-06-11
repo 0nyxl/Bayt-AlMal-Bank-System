@@ -359,6 +359,7 @@ void ClientSelect(enMainMenu choice) {
         break;
     }
     case UpdateClient: {
+        system("cls");
         vector<sClient>vClients = FillAllClients();
         string AccountUpdate = ReadAccountNumber("Enter Account Number: ");
         UpdateClientData(AccountUpdate, vClients);
@@ -366,6 +367,7 @@ void ClientSelect(enMainMenu choice) {
         break;
     }
     case FindClient: {
+        system("cls");
         vector<sClient>vClients = FillAllClients();
         string FindAccount = ReadAccountNumber("Enter Account Number: ");
         if (!FindAndPrintClientByAccountNumber(FindAccount, vClients)) {
